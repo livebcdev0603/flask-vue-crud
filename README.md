@@ -1,9 +1,5 @@
 # Developing a Single Page App with Flask and Vue.js
 
-### Want to learn how to build this?
-
-Check out the [tutorial](https://testdriven.io/developing-a-single-page-app-with-flask-and-vuejs).
-
 ## Want to use this project?
 
 1. Fork/Clone
